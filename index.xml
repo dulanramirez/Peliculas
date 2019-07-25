@@ -1,23 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
     <item>
-    <title>PELICULAS HD </title>
+    <title>[COLOR lime]PELICULAS HD[/COLOR] </title>
     <thumbnail>https://paulapinaa.files.wordpress.com/2015/01/logos-cine.jpg</thumbnail>
     <fanart>https://pulpfictioncine.com/download/multimedia.normal.ade901f70e125dc4.6d6375315f70756c7066696374696f6e63696e655f6e6f726d616c2e6a7067.jpg</fanart>
-    <link>https://www.youtube.com/watch?v=e9vW8shnqu0</link> 
+    <link>https://www.youtube.com/wa tch?v=e9vW8shnqu0</link> 
     <externallink>https://raw.githubusercontent.com/dulanramirez/Peliculas/master/text1.xml</externallink>
     </item>
 	
 	<item>
+<<<<<<< HEAD
     <title>CANALES DE TV EN VIVO</title>
     <thumbnail></thumbnail>
     <fanart></fanart> 
     <link></link> 
     <externallink></externallink>
     </item>	
+=======
+    <title>[COLOR lime]CANALAES DE TV EN VIVO[/COLOR] </title>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+    <link></link> 
+    <externallink>https://raw.githubusercontent.com/dulanramirez/Peliculas/master/canales.xml</externallink>
+    </item>
+>>>>>>> 099ae7157d8c6fc09a3035e10bb79f21d5b145b3
 	
     <item>
-    <title>peliculas 2</title>
+    <title>INFANTILES</title>
     <thumbnail></thumbnail>
     <fanart></fanart>
     <link>https://www.youtube.com/watch?v=e9vW8shnqu0</link> 
@@ -25,6 +34,7 @@
     </item>
 
     <item>
+<<<<<<< HEAD
     <title>peliculas 3</title>
     <thumbnail></thumbnail>
     <fanart></fanart> 
@@ -35,3 +45,14 @@
 	
 	
 	
+=======
+    <title>DEPORTES EN ESPAÑOL Y INGLES</title>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+    <link>https://storage.googleapis.com/modular-botany-21022019.appspot.com/10-06-2019/NUEVAS/P3rdi3ste.m1080p.yamil.mp4</link> 
+    <externallink>https://raw.githubusercontent.com/dulanramirez/Peliculas/master/deportes.xml</externallink>
+    </item>	
+	
+	
+
+>>>>>>> 099ae7157d8c6fc09a3035e10bb79f21d5b145b3
