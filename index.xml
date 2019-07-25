@@ -4,17 +4,8 @@
     <title>[COLOR lime]PELICULAS HD[/COLOR] </title>
     <thumbnail>https://paulapinaa.files.wordpress.com/2015/01/logos-cine.jpg</thumbnail>
     <fanart>https://pulpfictioncine.com/download/multimedia.normal.ade901f70e125dc4.6d6375315f70756c7066696374696f6e63696e655f6e6f726d616c2e6a7067.jpg</fanart>
-    <link>https://www.youtube.com/watch?v=e9vW8shnqu0</link> 
+    <link>https://www.youtube.com/wa tch?v=e9vW8shnqu0</link> 
     <externallink>https://raw.githubusercontent.com/dulanramirez/Peliculas/master/text1.xml</externallink>
-    </item>
-	
-	
-	<item>
-    <title>CANALES</title>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
-    <link></link> 
-    <externallink>https://raw.githubusercontent.com/dulanramirez/Peliculas/master/canales.xml</externallink>
     </item>
 	
 	
@@ -34,9 +25,11 @@
     <externallink>https://raw.githubusercontent.com/dulanramirez/Peliculas/master/deportes.xml</externallink>
     </item>	
 	
+	
 	<item>
-    <title>[COLOR white][COLOR blue]• [/COLOR] Dolor y gloria (2019) </title>
+    <title>CANALES DE TV EN VIVO</title>
+	<thumbnail>https://images-na.ssl-images-amazon.com/images/I/716mSNtxAaL._SY445_.jpg</thumbnail
     <fanart>https://images-na.ssl-images-amazon.com/images/I/716mSNtxAaL._SY445_.jpg</fanart>
-    <thumbnail>https://images-na.ssl-images-amazon.com/images/I/716mSNtxAaL._SY445_.jpg</thumbnail
-    <link>https://storage.googleapis.com/modular-botany-21022019.appspot.com/08-07-2019/NUEVAS/Dolor%20y%20Gloria%20WEB-DL%20MicroHD%201080p%20Spanish.mp4</link>
+    <link></link>
+	<externallink>https://raw.githubusercontent.com/dulanramirez/Peliculas/master/canales.xml</externallink>                          
     </item>
