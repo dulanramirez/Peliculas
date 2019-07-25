@@ -7,24 +7,7 @@
     <link>https://www.youtube.com/wa tch?v=e9vW8shnqu0</link> 
     <externallink>https://raw.githubusercontent.com/dulanramirez/Peliculas/master/text1.xml</externallink>
     </item>
-	
-	<item>
-<<<<<<< HEAD
-    <title>CANALES DE TV EN VIVO</title>
-    <thumbnail></thumbnail>
-    <fanart></fanart> 
-    <link></link> 
-    <externallink></externallink>
-    </item>	
-=======
-    <title>[COLOR lime]CANALAES DE TV EN VIVO[/COLOR] </title>
-    <thumbnail></thumbnail>
-    <fanart></fanart>
-    <link></link> 
-    <externallink>https://raw.githubusercontent.com/dulanramirez/Peliculas/master/canales.xml</externallink>
-    </item>
->>>>>>> 099ae7157d8c6fc09a3035e10bb79f21d5b145b3
-	
+    
     <item>
     <title>INFANTILES</title>
     <thumbnail></thumbnail>
@@ -34,7 +17,6 @@
     </item>
 
     <item>
-<<<<<<< HEAD
     <title>peliculas 3</title>
     <thumbnail></thumbnail>
     <fanart></fanart> 
@@ -42,10 +24,7 @@
     <externallink>https://raw.githubusercontent.com/dulanramirez/Peliculas/master/text3.xml</externallink>
     </item>	
 	
-	
-	
-	
-=======
+    <item>
     <title>DEPORTES EN ESPAÑOL Y INGLES</title>
     <thumbnail></thumbnail>
     <fanart></fanart>
@@ -55,4 +34,4 @@
 	
 	
 
->>>>>>> 099ae7157d8c6fc09a3035e10bb79f21d5b145b3
+
